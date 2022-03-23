@@ -2,6 +2,8 @@
 
 Update 🤖 Android and 🍎 iOS apps versions from the command line.
 
+[![asciicast](https://asciinema.org/a/wVa5hQoWtEdnX8rAFzbOhwCCa.svg)](https://asciinema.org/a/wVa5hQoWtEdnX8rAFzbOhwCCa)
+
 ## Why? 🤔
 
 Opening the `Android Studio` and `Xcode` apps every time you want to update the app version is a pain. This is why I
